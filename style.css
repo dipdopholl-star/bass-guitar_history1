@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.шапка{
+    padding: 0px,0px,30px,0px;
+}
+.квадратик {
+    background-color: black;
+}
+.содержание {
+    background-color: rgb(41, 46, 51);
+    text-align: left;
+}
+.план {
+    background-color: black;
+    text-align: center
+}
+.g {
+    background-color:rgb(70, 80, 91); ;
+}
+
